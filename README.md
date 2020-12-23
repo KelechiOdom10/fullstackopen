@@ -1,4 +1,4 @@
-# [Full Stack Open 2020](https://fullstackopen.com/en/ 'Full Stack Open 2020 Homepage')
+# [Full Stack Open 2020](https://fullstackopen.com/en/ "Full Stack Open 2020 Homepage")
 
 Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
 
@@ -10,19 +10,19 @@ Other topics include debugging applications, configuration, managing runtime env
 
 ## Exercises done per round
 
-| Part      | Exercises   |
-| --------- | ----------- |
-| 0         | 6/6         |
-| 1         | 0/14       |
-| 2         | 0/20       |
-| 3         | 0/22       |
-| 4         | 0/22       |
-| 5         | 0/22       |
-| 6         | 0/21       |
-| 7         | 0/21       |
-| 8         | 0/26       |
-| 9         | 0/27       |
-| 10        | 0/27         |
+| Part      | Exercises |
+| --------- | --------- |
+| 0         | 6/6       |
+| 1         | 0/14      |
+| 2         | 0/20      |
+| 3         | 0/22      |
+| 4         | 0/22      |
+| 5         | 0/22      |
+| 6         | 0/21      |
+| 7         | 0/21      |
+| 8         | 0/26      |
+| 9         | 0/27      |
+| 10        | 0/27      |
 | **Total** | **6/228** |
 
 ## Course material
@@ -105,3 +105,11 @@ Other topics include debugging applications, configuration, managing runtime env
 - React Native basics
 - Communicating with server
 - Testing and extending our application
+
+### Part 11: CI/CD
+
+- Introduction to CI/CD
+- Getting started with GitHub Actions
+- Deployment
+- Keeping green
+- Expanding Further
