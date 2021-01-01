@@ -15,14 +15,7 @@ function CountriesDetails({ filteredCountries, setCountry, country }) {
 						<button onClick={() => setCountry(country)}>show</button>
 					</p>
 				))}
-
-			{country.languages !== undefined && (
-				<ShowCountry
-					country={
-						filteredCountries.length === 1 ? filteredCountries[0] : country
-					}
-				/>
-			)}
+			{country.languages !== undefined && <ShowCountry country={country} />}
 		</>
 	);
 }

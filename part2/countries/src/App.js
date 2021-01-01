@@ -25,7 +25,9 @@ function App() {
 			<SearchBar search={search} setSearch={setSearch} />
 			<CountriesDetails
 				filteredCountries={filteredCountries}
-				country={country}
+				country={
+					filteredCountries.length === 1 ? filteredCountries[0] : country
+				}
 				setCountry={setCountry}
 			/>
 		</div>
